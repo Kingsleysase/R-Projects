@@ -1,4 +1,4 @@
-# Crimes Against Women in India Analysis Project  (2022). 
+# Crimes Against Women in India Project (2022). 
 
 ---
 
@@ -186,4 +186,11 @@ No statistical link found between "indecent representation" and rape cases. Refu
 ---
 
 _This documentation is intended as both a technical reference and a strategic roadmap for government bodies, NGOs, and development organizations working on women’s safety in India._
+
+---
+
+Thanks for reading!  
+**Author:** Kingsley Sase  
+**GitHub:** [@Kingsleysase](https://github.com/Kingsleysase)
+
 
